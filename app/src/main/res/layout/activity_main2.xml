@@ -8,6 +8,8 @@
         android:id="@+id/zhu"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:onClick="zz"/>
+        android:onClick="zz"
+        android:text="Aop点击处理"
+        />
 
 </LinearLayout>
